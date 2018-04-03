@@ -68,8 +68,8 @@ and install npm plugin :
 
     $ npm install --save @ionic-native/local-notifications
 
-© 2018 [Karmdip-MI][company]
+© 2018 [Mindinventory][company]
 
 [cordova]: https://ionicframework.com/
 [CLI]: https://ionicframework.com/docs/native/local-notifications/
-[company]: mindinventory.com
+[company]: https://www.mindinventory.com/
