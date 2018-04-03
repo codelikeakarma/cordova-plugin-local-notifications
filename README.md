@@ -25,7 +25,6 @@
 - Windows 10
 
 <br>
-<br>
 
 ## Important Notice
 
