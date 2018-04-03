@@ -40,8 +40,8 @@ Please report bugs or missing features!
 The plugin is same as native plugin and use native object for it is `this.localNotifications` and is accessible after *deviceready* has been fired.
 <br>
 ### It's only available for Android and soon update for iOS.
-<br>
-### Repeating
+
+## Repeating
 
 Repeat relative from now:
 
