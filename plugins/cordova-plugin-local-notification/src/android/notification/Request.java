@@ -197,8 +197,8 @@ public final class Request {
         if (spec.has("in")) {
             ticks = spec.optInt("in", 0);
         } else
-        if (spec.has("repeat")) {
-            ticks = spec.optInt("repeat", 0);
+        if (spec.has("interval")) {
+            ticks = spec.optInt("interval", 0);
         } else
         if (every instanceof String) {
             ticks = 1;
